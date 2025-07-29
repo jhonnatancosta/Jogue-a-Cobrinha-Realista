@@ -28,7 +28,7 @@ JavaScript
 bash
 
 Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone: https://github.com/jhonnatancosta/Jogue-a-Cobrinha-Realista.git
 
 Entre na pasta
 cd nome-do-repo
